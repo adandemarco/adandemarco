@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at TDI s.r.l
 - 🌱 I’m currently learning web design
-- 📫 How to reach me: 📷@adan.demarco 🐦@adandemarco97
+- 📫 How to reach me: 📧adandemarco00@gmail.com 📷@adan.demarco 🐦@adandemarco97
 - ⚡ Fun fact: I can count to potato
 
 
