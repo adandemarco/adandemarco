@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**adandemarco/adandemarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **adandemarco/adandemarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Here are some ideas to get you started: -->
+
+<!-- <img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px"> -->
+
+- 🔭 I’m currently working at TDI s.r.l
+- 🌱 I’m currently learning web design
+- 📫 How to reach me: 📷@adan.demarco 🐦@adandemarco97
+- ⚡ Fun fact: I can count to potato
+
+
